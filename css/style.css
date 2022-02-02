@@ -970,7 +970,7 @@ body.offcanvas {
 .project .thumbnail {
   display: block;
   position: relative;
-  height: 480px;
+  height: 500px;
 }
 
 @media only screen
